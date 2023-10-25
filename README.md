@@ -1,33 +1,33 @@
-# Привет, меня зовут Александр Макаров!
+# Hello, my name is Alexander Makarov!
 
-Приветствую вас на моем профиле GitHub. Я закончил [МИРЭА](https://www.mirea.ru/) по специальности **"Программная Инженерия"** и в данный момент прохожу обучение по магистерской программе **"Управление проектами"** в [РАНХиГС](https://www.ranepa.ru) и являюсь страстным разработчиком программного обеспечения. Здесь вы найдете мои проекты, исследования и опыт в различных областях информационных технологий.
+Welcome to my GitHub profile. I graduated from [MIREA](https://www.mirea.ru/) with a degree in **"Software Engineering"** and I am currently pursuing a master's program in **"Project Management"** at [RANEPA](https://www.ranepa.ru). I am a software developer, and here you will find my projects, research, and experience in various areas of information technology.
 
-## Опыт и навыки
+## Experience and Skills
 
-- Программирование на Python, Java, Kotlin, JavaScript, C++ и других языках
-- Разработка веб-приложений
-- Проектирование чат-ботов Discord и Telegram
-- Работа с базами данных
-- Разработка мобильных Android приложений
-- Автоматизация процессов с использованием скриптов
-- Системное администрирование и сетевые технологии
+- Programming in Python, Java, Kotlin, JavaScript, C++, and other languages
+- Web application development
+- Designing Discord and Telegram chatbots
+- Working with databases
+- Developing mobile Android applications
+- Process automation using scripts
+- System administration and network technologies
 
-## Проекты
+## Projects
 
-Ниже представлены некоторые из моих проектов:
+Here are some of my projects:
 
-- [Проект](igtcommunity.ru): На данный момент ведется наполнение github профиля.
+- [IGT Community Project](igtcommunity.ru): Currently, my GitHub profile is being updated.
 
-Больше проектов и кода можно найти в моих [репозиториях](https://github.com/AlexSNAKE-IGT).
+You can find more projects and code in my [repositories](https://github.com/AlexSNAKE-IGT).
 
-## Связь
+## Contact
 
-Свяжитесь со мной через [электронную почту](mailto:alexsnakeigt@yandex.ru) или [Telegram](https://t.me/AlexSNAKE_IGT).
+Feel free to reach out to me via [email](mailto:alexsnakeigt@yandex.ru) or [Telegram](https://t.me/AlexSNAKE_IGT).
 
-Не стесняйтесь связаться со мной, если у вас есть какие-либо вопросы, предложения или идеи. Буду рад видеть вас на своих проектах!
+Don't hesitate to contact me if you have any questions, suggestions, or ideas. I look forward to seeing you on my projects!
 
 ---
 
-Благодарность
+Acknowledgment
 
-Благодарю вас за посещение моего профиля GitHub. Надеюсь, вы найдете здесь что-то интересное. IGT Community.
+Thank you for visiting my GitHub profile. I hope you find something interesting here. IGT Community.
