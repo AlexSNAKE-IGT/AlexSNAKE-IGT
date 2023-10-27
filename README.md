@@ -17,6 +17,7 @@ Welcome to my GitHub profile. I graduated from [MIREA](https://www.mirea.ru/) wi
 Here are some of my projects:
 
 - [IGT Community Project](igtcommunity.ru): Currently, my GitHub profile is being updated.
+- [Fight Sports Club](fscclub.ru): My first freelance project.
 
 You can find more projects and code in my [repositories](https://github.com/AlexSNAKE-IGT).
 
